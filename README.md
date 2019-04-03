@@ -1,0 +1,1 @@
+submoduleの挙動を試す用。こっちはsubmoduleとして扱われる方のリポジトリ。
